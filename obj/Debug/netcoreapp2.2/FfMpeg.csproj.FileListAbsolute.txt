@@ -1,0 +1,16 @@
+C:\Users\makarychev\source\repos\FfMpeg\bin\Debug\netcoreapp2.2\FfMpeg.deps.json
+C:\Users\makarychev\source\repos\FfMpeg\bin\Debug\netcoreapp2.2\FfMpeg.runtimeconfig.json
+C:\Users\makarychev\source\repos\FfMpeg\bin\Debug\netcoreapp2.2\FfMpeg.runtimeconfig.dev.json
+C:\Users\makarychev\source\repos\FfMpeg\bin\Debug\netcoreapp2.2\FfMpeg.dll
+C:\Users\makarychev\source\repos\FfMpeg\bin\Debug\netcoreapp2.2\FfMpeg.pdb
+C:\Users\makarychev\source\repos\FfMpeg\obj\Debug\netcoreapp2.2\FfMpeg.csproj.CoreCompileInputs.cache
+C:\Users\makarychev\source\repos\FfMpeg\obj\Debug\netcoreapp2.2\FfMpeg.RazorAssemblyInfo.cache
+C:\Users\makarychev\source\repos\FfMpeg\obj\Debug\netcoreapp2.2\FfMpeg.RazorAssemblyInfo.cs
+C:\Users\makarychev\source\repos\FfMpeg\obj\Debug\netcoreapp2.2\FfMpeg.AssemblyInfoInputs.cache
+C:\Users\makarychev\source\repos\FfMpeg\obj\Debug\netcoreapp2.2\FfMpeg.AssemblyInfo.cs
+C:\Users\makarychev\source\repos\FfMpeg\obj\Debug\netcoreapp2.2\FfMpeg.RazorTargetAssemblyInfo.cache
+C:\Users\makarychev\source\repos\FfMpeg\obj\Debug\netcoreapp2.2\FfMpeg.dll
+C:\Users\makarychev\source\repos\FfMpeg\obj\Debug\netcoreapp2.2\FfMpeg.pdb
+C:\Users\makarychev\source\repos\FfMpeg\bin\Debug\netcoreapp2.2\FfMpeg.Views.dll
+C:\Users\makarychev\source\repos\FfMpeg\obj\Debug\netcoreapp2.2\FfMpeg.csproj.CopyComplete
+C:\Users\makarychev\source\repos\FfMpeg\obj\Debug\netcoreapp2.2\FfMpeg.csprojAssemblyReference.cache
